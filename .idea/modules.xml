@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/REST_API_with_Flutter.iml" filepath="$PROJECT_DIR$/.idea/REST_API_with_Flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Rest_Api.iml" filepath="$PROJECT_DIR$/.idea/Rest_Api.iml" />
     </modules>
   </component>
 </project>
